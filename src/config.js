@@ -3,12 +3,12 @@ const config = {
 	metaData: {
 		title: '寒冰的个人主页🎉',
 		description: '欢迎来到寒冰的网站！',
-		keywords: 'Leleo,leleo,个人主页,个人网站',
+		keywords: 'Hangbing,hanbing,个人主页,个人网站',
 		icon: '/favicon.ico'   //网页图标，支持外链
 	},
 
 	avatar: "/img/avatar.jpg", // 头像
-	welcometitle: "Hi, I'm Leleo", // 标题
+	welcometitle: "Hi, I'm hanbing", // 标题
 
 	// 颜色配置
 	color: {
