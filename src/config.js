@@ -71,6 +71,7 @@ const config = {
 
 	//音乐播放配置，采用MetingJS Api(https://github.com/metowolf/MetingJS)
 	musicPlayer: {
+		autoplay: 'true',
 		server: 'netease',  //服务提供商 --网易云音乐
 		type: 'playlist',   //歌单类型
 		id: '7079411923'  //歌单id ---> music.163.com/#/playlist?id=2028178887
