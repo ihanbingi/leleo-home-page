@@ -73,7 +73,7 @@ const config = {
 	musicPlayer: {
 		server: 'netease',  //服务提供商 --网易云音乐
 		type: 'playlist',   //歌单类型
-		id: '13697316223'  //歌单id ---> music.163.com/#/playlist?id=2028178887
+		id: '7079411923'  //歌单id ---> music.163.com/#/playlist?id=2028178887
 	},
 
 	//壁纸数据 -----可以将壁纸文件上传到图床获取网络直链。若想调用api，请前往脚本自行修改逻辑
@@ -144,8 +144,8 @@ const config = {
 		{ go: "👍 前往", img: "/img/sunshine.jpg", title: "Project 4", subtitle: "4,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
 		{ go: "🗃 前往", img: "/img/sunshine.jpg", title: "Project 5", subtitle: "5,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
 		{ go: "🎨 前往", img: "/img/sunshine.jpg", title: "Project 6", subtitle: "6,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
-		{ go: "💍 前往", img: "/img/sunshine.jpg", title: "Project 7", subtitle: "7,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
-		{ go: "🔍 前往", img: "/img/sunshine.jpg", title: "Project 8", subtitle: "8,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://leleo.top", show: false },
+		{ go: "💍 前往", img: "做的一些东西", title: "Project 7", subtitle: "7,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://ihanbingi.github.io/download", show: false },
+		{ go: "🔍 前往", img: "/img/sunshine.jpg", title: "Project 8", subtitle: "8,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://ihanbingi.github.io/more", show: false },
 	],
 
 	statement: ["备案号：XXICP备123456789号", "Copyright © 2025 Leleo"],
