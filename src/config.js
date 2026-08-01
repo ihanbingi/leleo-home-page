@@ -138,8 +138,8 @@ const config = {
 
 	//项目卡片 其中 字段"show"控制初始卡片的text是否展开
 	projectcards: [
-		{ go: "🚀 前往", img: "/img/sunshine.jpg", title: "Project 1", subtitle: "1,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "", show: false },
-		{ go: "🗂️ 前往", img: "/img/sunshine.jpg", title: "Project 2", subtitle: "2,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "", show: false },
+		{ go: "🚀 前往", img: "/img/sunshine.jpg", title: "我的网站", subtitle: "1,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://ihanbingi.github.io/", show: false },
+		{ go: "🗂️ 前往", img: "/img/sunshine.jpg", title: "我的相册", subtitle: "2,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "https://hanbingi.github.io/photos/", show: false },
 		{ go: "📝 前往", img: "/img/sunshine.jpg", title: "Project 3", subtitle: "3,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "", show: false },
 		{ go: "👍 前往", img: "/img/sunshine.jpg", title: "Project 4", subtitle: "4,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "", show: false },
 		{ go: "🗃 前往", img: "/img/sunshine.jpg", title: "Project 5", subtitle: "5,000 miles of wonder", text: "If you see this line, I've managed to get your attention.", url: "", show: false },
